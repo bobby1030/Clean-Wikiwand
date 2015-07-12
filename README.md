@@ -1,12 +1,8 @@
 # Clean Wikiwand
 
-* * *
-
-#### _ 讓WikiWand簡潔、乾淨  Make Wikiwand Cleaner_
+#### _讓WikiWand簡潔、乾淨  Make Wikiwand Cleaner_
 
 ## 介紹 Introduction
-
-* * *
 
 #### 本Userstyle將會移除：
 
@@ -26,8 +22,6 @@
 
 ## 安裝 Install
 
-* * *
-
 本專案已上傳至Userstyles.org，請至該網站下載：
 [https://userstyles.org/styles/116314/clean-wikiwand](https://userstyles.org/styles/116314/clean-wikiwand)
 
@@ -36,15 +30,11 @@ This project has been upload to Userstyles.org, please visit it to download this
 
 ## 其它 Other
 
-* * *
-
 部落格文章：[http://blog.bobbyrealms.info/2015/07/clean-wikiwand-make-wikiwand-cleaner/](http://blog.bobbyrealms.info/2015/07/clean-wikiwand-make-wikiwand-cleaner/)
 
 Blog Post:[http://blog.bobbyrealms.info/2015/07/clean-wikiwand-make-wikiwand-cleaner/](http://blog.bobbyrealms.info/2015/07/clean-wikiwand-make-wikiwand-cleaner/)
 
 ## 版權 License
-
-* * *
 
 [![CC BY-NC 4.0](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 CC Attribution-NonCommercial 4.0 International
