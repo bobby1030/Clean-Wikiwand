@@ -36,7 +36,6 @@ Blog Post:[http://blog.bobbyrealms.info/2015/07/clean-wikiwand-make-wikiwand-cle
 
 ## 版權 License
 
-[![CC BY-NC 4.0](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
-CC Attribution-NonCommercial 4.0 International
+MIT License
 
 Your Forking and Pull Requests are welcomed!
