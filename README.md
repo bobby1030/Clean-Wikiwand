@@ -25,7 +25,7 @@
 本專案已上傳至Userstyles.org，請至該網站下載：
 [https://userstyles.org/styles/116314/clean-wikiwand](https://userstyles.org/styles/116314/clean-wikiwand)
 
-This project has been upload to Userstyles.org, please visit it to download this userstyle:
+This project has been uploaded to Userstyles.org. Please visit it to download this userstyle:
 [https://userstyles.org/styles/116314/clean-wikiwand](https://userstyles.org/styles/116314/clean-wikiwand)
 
 ## 其它 Other
@@ -39,4 +39,4 @@ Blog Post:[http://blog.bobbyrealms.info/2015/07/clean-wikiwand-make-wikiwand-cle
 [![CC BY-NC 4.0](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 CC Attribution-NonCommercial 4.0 International
 
-Your Fork or Pull Request are welcomed!
+Your Forking and Pull Requests are welcomed!
